@@ -37,7 +37,7 @@ export default function Home() {
             <div className={styles["content-container"]} style={{ width: contentWidth }}>
                 <div className={styles["image-container"]} style={{ width: imageWidth }}>
                     <Image
-                        src="/bionics-captioning-frontend/uoft_logo.webp"
+                        src="/sensory-feedback/uoft_logo.webp"
                         alt="UofT Logo"
                         className={styles["image"]}
                         layout="fill"
